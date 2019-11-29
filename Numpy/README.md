@@ -3,3 +3,5 @@
 ---
 
 [Link to Video](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+<br>
+[Link to GitHub](https://github.com/KeithGalli/NumPy)
